@@ -22,5 +22,12 @@
 
 <h2>3.项目运行部分截图</h2>
 <img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/1.png"/><br>
-<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/8.png"/>
+<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/2.png"/><br>
+<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/3.png"/><br>
+<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/4.png"/><br>
+<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/5.png"/><br>
+<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/6.png"/><br>
+<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/7.png"/><br>
+<img src="https://github.com/daijiangping/SHOP1.0/blob/master/WebRoot/jietu/8.png"/><br>
 
+<h2>4.项目说明</h2>
